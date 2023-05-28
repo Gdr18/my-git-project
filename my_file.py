@@ -6,4 +6,4 @@ def hi_there():
     return 'Hi there'
 
 def hi_there():
-    return 'Hi there'
+    return 'My local change'
